@@ -1,2 +1,2 @@
-# ola_mundo
- prepositorio_curso_em_video
+# Olá Mundo!
+ Primeiro prepositório do curso_em_video
